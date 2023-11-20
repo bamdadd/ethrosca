@@ -1,7 +1,7 @@
 # ETH ROSCA
 
 ## Description
-A ROSCA is an unofficial financial organization made up of a group of people who regularly contribute to and take from a shared pool of money.
+A ROSCA (Rotating Savings and Credit Association) is an unofficial financial organization made up of a group of people who regularly contribute to and take from a shared pool of money.
 
 In a ROSCA, participants collectively contribute to a joint fund, usually with monthly payments. Each cycle, one member receives the total amount as a one-time payment. This process repeats as long as the group remains active.
 
